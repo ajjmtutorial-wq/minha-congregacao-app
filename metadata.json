@@ -1,0 +1,8 @@
+{
+  "name": "Minha Congregação",
+  "description": "Sistema de Gestão Congregacional Interno",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
